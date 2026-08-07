@@ -1,4 +1,4 @@
 {
   "WELCOME": { "Cash": 10000, "XP": 1000 },
-  "LAUNCH":  { "Cash": 50000, "Expires": "2026-09-01" }
+  "LAUNCH":  { "ClassRerolls": 10, "Expires": "2026-09-01" }
 }
