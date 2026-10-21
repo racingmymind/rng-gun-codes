@@ -1,3 +1,10 @@
-{
-"CODE1": { "ClassRerolls": 15, "Expires": "2026-12-31" }
+"UPDATE1": {
+  "ClassRerolls": 25,
+  "CreditsLucky": 2,
+  "CreditsGolden": 1,
+  "Boosters": [
+    { "Kind": "Luck",   "Tier": 2, "Minutes": 10, "Count": 1 },
+    { "Kind": "Cash",   "Tier": 2, "Minutes": 10, "Count": 1 },
+    { "Kind": "XP",     "Tier": 2, "Minutes": 10, "Count": 1 }
+  ]
 }
