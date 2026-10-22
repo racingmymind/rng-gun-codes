@@ -4,16 +4,58 @@
     "CreditsLucky": 2,
     "CreditsGolden": 1,
     "Boosters": [
-      { "Kind": "Luck",   "Tier": 2, "Minutes": 10, "Count": 1 },
-      { "Kind": "Cash",   "Tier": 2, "Minutes": 10, "Count": 1 },
-      { "Kind": "XP",     "Tier": 2, "Minutes": 10, "Count": 1 }
+      {
+        "Kind": "Luck",
+        "Tier": 2,
+        "Minutes": 10,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 2,
+        "Minutes": 10,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 2,
+        "Minutes": 10,
+        "Count": 1
+      }
     ]
   },
   "1KMEMBERS": {
     "ClassRerolls": 25,
     "CreditsDivine": 1,
     "Boosters": [
-      { "Kind": "Luck",   "Tier": 3, "Minutes": 60, "Count": 1 }
+      {
+        "Kind": "Luck",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      }
+    ]
+  },
+  "UPDATE2": {
+    "Boosters": [
+      {
+        "Kind": "Luck",
+        "Tier": 1,
+        "Minutes": 10,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 1,
+        "Minutes": 10,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 1,
+        "Minutes": 10,
+        "Count": 1
+      }
     ]
   }
 }
