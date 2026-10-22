@@ -13,7 +13,7 @@
     "ClassRerolls": 25,
     "CreditsDivine": 1,
     "Boosters": [
-      { "Kind": "Luck",   "Tier": 3, "Minutes": 10, "Count": 1 }
+      { "Kind": "Luck",   "Tier": 3, "Minutes": 60, "Count": 1 }
     ]
   }
 }
