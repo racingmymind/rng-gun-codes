@@ -1,10 +1,19 @@
-"UPDATE1": {
-  "ClassRerolls": 25,
-  "CreditsLucky": 2,
-  "CreditsGolden": 1,
-  "Boosters": [
-    { "Kind": "Luck",   "Tier": 2, "Minutes": 10, "Count": 1 },
-    { "Kind": "Cash",   "Tier": 2, "Minutes": 10, "Count": 1 },
-    { "Kind": "XP",     "Tier": 2, "Minutes": 10, "Count": 1 }
-  ]
+{
+  "UPDATE1": {
+    "ClassRerolls": 25,
+    "CreditsLucky": 2,
+    "CreditsGolden": 1,
+    "Boosters": [
+      { "Kind": "Luck",   "Tier": 2, "Minutes": 10, "Count": 1 },
+      { "Kind": "Cash",   "Tier": 2, "Minutes": 10, "Count": 1 },
+      { "Kind": "XP",     "Tier": 2, "Minutes": 10, "Count": 1 }
+    ]
+  },
+  "1KMEMBERS": {
+    "ClassRerolls": 25,
+    "CreditsDivine": 1,
+    "Boosters": [
+      { "Kind": "Luck",   "Tier": 3, "Minutes": 10, "Count": 1 }
+    ]
+  }
 }
