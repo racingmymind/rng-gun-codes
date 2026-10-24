@@ -57,5 +57,30 @@
         "Count": 1
       }
     ]
+  },
+  "100LIKES": {
+    "Souls": 100,
+    "Boosters": [
+      {
+        "Kind": "Luck",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      }
+    ],
+    "Expires": "2026-10-31",
+    "ExpiresAt": 1793417494
   }
 }
