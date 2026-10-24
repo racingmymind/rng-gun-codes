@@ -82,5 +82,9 @@
     ],
     "Expires": "2026-10-31",
     "ExpiresAt": 1793417494
+  },
+  "UPDATE3": {
+    "Souls": 100,
+    "ClassRerolls": 25
   }
 }
