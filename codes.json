@@ -34,7 +34,9 @@
         "Minutes": 60,
         "Count": 1
       }
-    ]
+    ],
+    "ExpiresAt": 1792949489,
+    "Expires": "2026-10-24"
   },
   "UPDATE2": {
     "Boosters": [
@@ -86,5 +88,9 @@
   "UPDATE3": {
     "Souls": 100,
     "ClassRerolls": 25
+  },
+  "2KMEMBERS": {
+    "ClassRerolls": 25,
+    "SpinCredits": 5
   }
 }
