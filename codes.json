@@ -91,6 +91,11 @@
   },
   "2KMEMBERS": {
     "ClassRerolls": 25,
-    "SpinCredits": 5
+    "SpinCredits": 5,
+    "ExpiresAt": 1793193750,
+    "Expires": "2026-10-27"
+  },
+  "3KMEMBERS": {
+    "ClassRerolls": 35
   }
 }
