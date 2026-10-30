@@ -22,7 +22,9 @@
         "Minutes": 10,
         "Count": 1
       }
-    ]
+    ],
+    "ExpiresAt": 1793395856,
+    "Expires": "2026-10-29"
   },
   "1KMEMBERS": {
     "ClassRerolls": 25,
@@ -58,7 +60,9 @@
         "Minutes": 10,
         "Count": 1
       }
-    ]
+    ],
+    "ExpiresAt": 1793395856,
+    "Expires": "2026-10-29"
   },
   "100LIKES": {
     "Souls": 100,
@@ -87,7 +91,9 @@
   },
   "UPDATE3": {
     "Souls": 100,
-    "ClassRerolls": 25
+    "ClassRerolls": 25,
+    "ExpiresAt": 1793395856,
+    "Expires": "2026-10-29"
   },
   "2KMEMBERS": {
     "ClassRerolls": 25,
@@ -118,6 +124,22 @@
         "Tier": 2,
         "Minutes": 30,
         "Count": 1
+      }
+    ]
+  },
+  "UPDATE4": {
+    "Souls": 100,
+    "ClassRerolls": 25
+  },
+  "HALLOWEEN": {
+    "Rewards": [
+      {
+        "Kind": "Candy",
+        "Amount": 250
+      },
+      {
+        "Kind": "CompanionRoll",
+        "Amount": 3
       }
     ]
   }
