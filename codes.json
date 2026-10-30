@@ -82,8 +82,8 @@
         "Count": 1
       }
     ],
-    "Expires": "2026-10-31",
-    "ExpiresAt": 1793417494
+    "Expires": "2026-10-29",
+    "ExpiresAt": 1793391468
   },
   "UPDATE3": {
     "Souls": 100,
@@ -97,5 +97,28 @@
   },
   "3KMEMBERS": {
     "ClassRerolls": 35
+  },
+  "250LIKES": {
+    "Souls": 250,
+    "Boosters": [
+      {
+        "Kind": "Luck",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      }
+    ]
   }
 }
