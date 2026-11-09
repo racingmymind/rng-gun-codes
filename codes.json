@@ -141,7 +141,9 @@
         "Kind": "CompanionRoll",
         "Amount": 3
       }
-    ]
+    ],
+    "ExpiresAt": 1794200100,
+    "Expires": "2026-11-09"
   },
   "MINIUPDATE": {
     "ClassRerolls": 25,
