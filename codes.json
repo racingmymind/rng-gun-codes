@@ -129,7 +129,9 @@
   },
   "UPDATE4": {
     "Souls": 100,
-    "ClassRerolls": 25
+    "ClassRerolls": 25,
+    "ExpiresAt": 1794191928,
+    "Expires": "2026-11-08"
   },
   "HALLOWEEN": {
     "Rewards": [
