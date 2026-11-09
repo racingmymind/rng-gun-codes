@@ -142,5 +142,14 @@
         "Amount": 3
       }
     ]
+  },
+  "MINIUPDATE": {
+    "ClassRerolls": 25,
+    "Rewards": [
+      {
+        "Kind": "CompanionRoll",
+        "Amount": 5
+      }
+    ]
   }
 }
