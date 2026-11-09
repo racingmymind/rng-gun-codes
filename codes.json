@@ -102,7 +102,9 @@
     "Expires": "2026-10-27"
   },
   "3KMEMBERS": {
-    "ClassRerolls": 35
+    "ClassRerolls": 35,
+    "ExpiresAt": 1794191972,
+    "Expires": "2026-11-08"
   },
   "250LIKES": {
     "Souls": 250,
@@ -125,7 +127,9 @@
         "Minutes": 30,
         "Count": 1
       }
-    ]
+    ],
+    "ExpiresAt": 1794191972,
+    "Expires": "2026-11-08"
   },
   "UPDATE4": {
     "Souls": 100,
@@ -155,5 +159,31 @@
         "Amount": 5
       }
     ]
+  },
+  "500LIKES": {
+    "Souls": 500,
+    "Boosters": [
+      {
+        "Kind": "Luck",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 2,
+        "Minutes": 30,
+        "Count": 1
+      }
+    ]
+  },
+  "5KMEMBERS": {
+    "ClassRerolls": 50
   }
 }
