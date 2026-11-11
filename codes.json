@@ -184,6 +184,12 @@
     ]
   },
   "5KMEMBERS": {
-    "ClassRerolls": 50
+    "ClassRerolls": 50,
+    "ExpiresAt": 1794385555,
+    "Expires": "2026-11-10"
+  },
+  "10KMEMBERS": {
+    "ClassRerolls": 50,
+    "Souls": 500
   }
 }
