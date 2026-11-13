@@ -192,11 +192,25 @@
   },
   "10KMEMBERS": {
     "ClassRerolls": 50,
-    "Souls": 500
+    "Souls": 500,
+    "ExpiresAt": 1794580209,
+    "Expires": "2026-11-12"
   },
   "1KLIKES": {
     "Souls": 1000,
     "ExpiresAt": 1795138814,
     "Expires": "2026-11-20"
+  },
+  "15KMEMBERS": {
+    "Souls": 250,
+    "ClassRerolls": 25,
+    "Boosters": [
+      {
+        "Kind": "XP",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      }
+    ]
   }
 }
