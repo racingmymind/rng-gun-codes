@@ -181,7 +181,9 @@
         "Minutes": 30,
         "Count": 1
       }
-    ]
+    ],
+    "ExpiresAt": 1794534013,
+    "Expires": "2026-11-12"
   },
   "5KMEMBERS": {
     "ClassRerolls": 50,
@@ -191,5 +193,10 @@
   "10KMEMBERS": {
     "ClassRerolls": 50,
     "Souls": 500
+  },
+  "1KLIKES": {
+    "Souls": 1000,
+    "ExpiresAt": 1795138814,
+    "Expires": "2026-11-20"
   }
 }
