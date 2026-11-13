@@ -158,7 +158,9 @@
         "Kind": "CompanionRoll",
         "Amount": 5
       }
-    ]
+    ],
+    "ExpiresAt": 1794606766,
+    "Expires": "2026-11-12"
   },
   "500LIKES": {
     "Souls": 500,
@@ -212,5 +214,9 @@
         "Count": 1
       }
     ]
+  },
+  "UPDATE5": {
+    "ClassRerolls": 25,
+    "Souls": 100
   }
 }
