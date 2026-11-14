@@ -218,5 +218,12 @@
   "UPDATE5": {
     "ClassRerolls": 25,
     "Souls": 100
+  },
+  "20KMEMBERS": {
+    "Souls": 150,
+    "Rewards": [
+      "WeaponLock:2",
+      "CompanionRoll:3"
+    ]
   }
 }
