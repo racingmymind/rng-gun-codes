@@ -213,7 +213,9 @@
         "Minutes": 60,
         "Count": 1
       }
-    ]
+    ],
+    "ExpiresAt": 1794952547,
+    "Expires": "2026-11-17"
   },
   "UPDATE5": {
     "ClassRerolls": 25,
