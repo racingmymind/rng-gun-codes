@@ -227,5 +227,29 @@
       "WeaponLock:2",
       "CompanionRoll:3"
     ]
+  },
+  "2KLIKES": {
+    "Boosters": [
+      {
+        "Kind": "Luck",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      }
+    ],
+    "ExpiresAt": 1795347947,
+    "Expires": "2026-11-22"
   }
 }
