@@ -226,7 +226,9 @@
     "Rewards": [
       "WeaponLock:2",
       "CompanionRoll:3"
-    ]
+    ],
+    "Expires": "2026-11-19",
+    "ExpiresAt": 1795071916
   },
   "2KLIKES": {
     "Boosters": [
@@ -251,5 +253,27 @@
     ],
     "ExpiresAt": 1795347947,
     "Expires": "2026-11-22"
+  },
+  "30KMEMBERS": {
+    "Boosters": [
+      {
+        "Kind": "Luck",
+        "Tier": 3,
+        "Minutes": 10,
+        "Count": 2
+      },
+      {
+        "Kind": "XP",
+        "Tier": 3,
+        "Minutes": 10,
+        "Count": 2
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 3,
+        "Minutes": 10,
+        "Count": 2
+      }
+    ]
   }
 }
