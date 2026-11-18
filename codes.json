@@ -282,5 +282,22 @@
     "AugmentRerolls": 15,
     "Expires": "2026-11-25",
     "ExpiresAt": 1795565044
+  },
+  "3KLIKES": {
+    "AugmentRerolls": 30,
+    "Boosters": [
+      {
+        "Kind": "Cash",
+        "Tier": 3,
+        "Minutes": 30,
+        "Count": 1
+      },
+      {
+        "Kind": "XP",
+        "Tier": 3,
+        "Minutes": 30,
+        "Count": 1
+      }
+    ]
   }
 }
