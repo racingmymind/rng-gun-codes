@@ -299,5 +299,12 @@
         "Count": 1
       }
     ]
+  },
+  "50KMEMBERS": {
+    "AugmentRerolls": 100,
+    "Rewards": [
+      "CompanionRoll:10",
+      "WeaponLock:2"
+    ]
   }
 }
