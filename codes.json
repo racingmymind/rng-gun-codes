@@ -219,7 +219,9 @@
   },
   "UPDATE5": {
     "ClassRerolls": 25,
-    "Souls": 100
+    "Souls": 100,
+    "ExpiresAt": 1795507316,
+    "Expires": "2026-11-23"
   },
   "20KMEMBERS": {
     "Souls": 150,
