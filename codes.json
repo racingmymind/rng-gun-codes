@@ -326,6 +326,7 @@
       }
     ],
     "Expires": "2026-11-27",
-    "ExpiresAt": 1795790731
+    "ExpiresAt": 1795790731,
+    "CreditsCelestial": 3
   }
 }
