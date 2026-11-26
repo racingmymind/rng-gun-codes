@@ -308,5 +308,22 @@
       "CompanionRoll:10",
       "WeaponLock:2"
     ]
+  },
+  "THANKSGIVING": {
+    "ClassRerolls": 50,
+    "Boosters": [
+      {
+        "Kind": "XP",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      },
+      {
+        "Kind": "Cash",
+        "Tier": 3,
+        "Minutes": 60,
+        "Count": 1
+      }
+    ]
   }
 }
