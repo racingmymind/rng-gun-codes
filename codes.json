@@ -330,5 +330,9 @@
     "Expires": "2026-11-27",
     "ExpiresAt": 1795790731,
     "CreditsCelestial": 3
+  },
+  "UPDATE6": {
+    "ClassRerolls": 25,
+    "Souls": 100
   }
 }
