@@ -276,7 +276,9 @@
         "Minutes": 10,
         "Count": 2
       }
-    ]
+    ],
+    "ExpiresAt": 1795792681,
+    "Expires": "2026-11-26"
   },
   "HORDEMODE": {
     "ClassRerolls": 10,
