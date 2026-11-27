@@ -333,6 +333,7 @@
   },
   "UPDATE6": {
     "ClassRerolls": 25,
-    "Souls": 100
+    "Souls": 100,
+    "AugmentRerolls": 100
   }
 }
